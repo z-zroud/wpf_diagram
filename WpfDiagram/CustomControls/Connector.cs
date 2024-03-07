@@ -8,6 +8,7 @@ using System.Windows.Controls;
 using System.Windows.Input;
 using System.Windows.Media;
 using WpfDiagram.Enums;
+using WpfDiagram.ViewModels.Connector;
 
 namespace WpfDiagram.CustomControls
 {
